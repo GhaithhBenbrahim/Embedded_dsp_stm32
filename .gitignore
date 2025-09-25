@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Except these folders
+!FIR_Live_Filter/
+!SensorDataBlockProcessing_FIR/
+!SensorDataBlockProcessing_MA/
+
+# (Optional) keep README and .gitignore
+!README.md
+!.gitignore
