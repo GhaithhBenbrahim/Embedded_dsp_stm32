@@ -1,0 +1,2 @@
+../Src/fir_filter.c:11:6:fir_fiter_init	1
+../Src/fir_filter.c:34:11:fir_filter_update	4

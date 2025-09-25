@@ -1,11 +1,16 @@
 # Ignore everything
 *
 
-# Except these folders
+# Except these top-level folders and their contents recursively
 !FIR_Live_Filter/
-!SensorDataBlockProcessing_FIR/
-!SensorDataBlockProcessing_MA/
+!FIR_Live_Filter/**
 
-# (Optional) keep README and .gitignore
+!SensorDataBlockProcessing_FIR/
+!SensorDataBlockProcessing_FIR/**
+
+!SensorDataBlockProcessing_MA/
+!SensorDataBlockProcessing_MA/**
+
+# Keep README and .gitignore
 !README.md
 !.gitignore

@@ -1,0 +1,7 @@
+../Src/main.c:63:5:main	4
+../Src/main.c:124:16:read_fifo	2
+../Src/main.c:146:6:calc_convolution	4
+../Src/main.c:165:13:clear_data_buffer	2
+../Src/main.c:175:13:tim2_callback	2
+../Src/main.c:188:6:TIM2_IRQHandler	1
+../Src/main.c:196:13:pseudo_dly	2
